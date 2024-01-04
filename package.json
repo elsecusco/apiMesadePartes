@@ -1,0 +1,36 @@
+{
+  "name": "sielse-msp-mesa-partes-virtual",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.6.0",
+    "aws-sdk": "^2.797.0",
+    "axios": "^0.21.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.6.1",
+    "find-config": "^1.0.0",
+    "html-pdf": "^2.2.0",
+    "js-crypto-hmac": "^1.0.7",
+    "mssql": "^6.2.2",
+    "nodemon": "^3.0.2",
+    "path": "^0.12.7",
+    "sielse-acceso-datos": "2.1.7",
+    "sielse-cliente-correo": "1.0.8",
+    "sielse-cliente-seguridad": "1.0.7",
+    "sielse-decoradores": "1.0.4",
+    "sielse-funciones": "1.0.6",
+    "swagger-ui-express": "^4.1.4",
+    "utf8-bytes": "^0.0.1",
+    "uuid": "^8.3.1"
+  }
+}
